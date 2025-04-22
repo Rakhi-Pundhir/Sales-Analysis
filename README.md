@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis SQL Project
+# 🍕 Pizza Sales Data Analysis using SQL
 
 This project demonstrates a SQL-based analysis of a pizza sales dataset. It includes a series of business questions answered using SQL queries, and their respective outputs and insights are compiled into a PowerPoint presentation.
 
